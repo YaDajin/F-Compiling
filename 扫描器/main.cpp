@@ -8,6 +8,7 @@ int main()
 	fpoint = fopen("1.txt", "rt");
 	maxLen = cifa_analysis(fpoint,words);
 	cout << endl;
+	std::cout << "hello world" << std::endl;
 	delete[] words;
 	return 0;
 }
