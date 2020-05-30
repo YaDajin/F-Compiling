@@ -23,7 +23,7 @@ using namespace std;
 #define	 SMALLER_EQUAL      16 /* <= */
 #define	 BIGER_EQUAL        17 /* >= */
 #define	 LEFT_BRACKET       18 /* [ */
-#define	 RIGHT_BRACKET       19 /* ] */
+#define	 RIGHT_BRACKET      19 /* ] */
 #define	 NOT_EQUAL          20 /* != */
 #define	 POINT              21 /* . */
 #define	 BEAN               22 /* , */
